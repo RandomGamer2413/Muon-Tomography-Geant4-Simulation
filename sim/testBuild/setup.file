@@ -1,0 +1,14 @@
+returnNeutrons 0
+returnProtons 0
+returnGammas 0
+returnElectrons 0
+returnMuons 1
+returnPions 0
+
+nParticlesMin 1
+nParticlesMax 2
+
+date 7-1-2023
+latitude 0.0
+altitude 0
+subboxLength 30

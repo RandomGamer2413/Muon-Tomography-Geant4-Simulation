@@ -1,0 +1,10 @@
+/Users/yajurpreetham/geant4-playground/sim/build3/CMakeFiles/sim.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/CMakeFiles/Simulation.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/CMakeFiles/edit_cache.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/CMakeFiles/rebuild_cache.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/OPSim/CMakeFiles/OPSim.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/OPSim/CMakeFiles/edit_cache.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/OPSim/CMakeFiles/rebuild_cache.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/sslg4/CMakeFiles/sslg4.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/sslg4/CMakeFiles/edit_cache.dir
+/Users/yajurpreetham/geant4-playground/sim/build3/sslg4/CMakeFiles/rebuild_cache.dir
